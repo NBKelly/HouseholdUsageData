@@ -1,0 +1,19 @@
+ID	Heatpump	Cooking					Water Heating		Space Heating				Adults	Children	Income		Location	Solar
+13307	No		Electricity				Electricity		Electricity & Wood			3	0		70k or more	City		No
+13928	Yes		Electricity & Bottled Gas		Electricity		Electricity & Wood			2	0		70k or more	Rural		No
+18638	No		Electricity	      			Electricity		Electricity & Wood			3	0		70k or more	Rural		No
+17964	No		Electricity				Electricity & Wood	Electricity & Wood			4	1		70k or more	City		2 kW to 4 kW
+14853	Yes		Electricity				Electricity		Electricity & Wood			3	0		70k or more	Rural		No
+14339	Yes		Electricity				Electricity		Electricity & Mains Gas & Fossil Fuels	2	0		70k or more	City		No
+10483	No		Electricity				Mains Gas		Mains Gas	    	  	 	2	0		70k or more	City		No
+16423	No		Electricity & Mains Gas			Mains Gas		Electricity & Mains Gas			2	2		70k or more	City		No
+12817	No		Mains Gas	    	      		Mains Gas		Mains Gas	    			2	0		50-70k		City		No
+13598	Yes		Electricity				Electricity		Electricity				3	0		50-70k		City		No
+16106	Yes		Electricity & Mains Gas			Mains Gas		Electricity & Mains Gas			4	1		50-70k		City		No
+12114	No		Electricity	    	      		Electricity		Wood	      	    			1	0		20k-50k		Rural		No
+19189	No		Electricity				Mains Gas		Mains Gas				2	0		70k or more	City		No
+15563	No		Electricity				Electricity		Electricity				2	0		50-70k		City		No
+12877	No		Mains Gas				Mains Gas		Mains Gas				2	0		70k or more	City		Yes not sure Size
+11334	Yes		Electricity				Electricity		Electricity				3	0		70k or more	City		No
+12707	No		Electricity				Mains Gas		Fossil Fuels				2	0		20k-50k		City		No
+18800	No		Bottled Gas				Electricity		Electricity				2	0		70k or more	City		No
